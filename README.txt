@@ -1,1 +1,1 @@
-This is a practice git repository
+Hello git and Github
